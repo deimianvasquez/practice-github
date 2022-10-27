@@ -1,0 +1,23 @@
+{
+  "name": "practice-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deimianvasquez/practice-github.git"
+  },
+  "keywords": [],
+  "author": "prueba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deimianvasquez/practice-github/issues"
+  },
+  "homepage": "https://github.com/deimianvasquez/practice-github#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
